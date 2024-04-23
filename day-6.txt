@@ -1,0 +1,4 @@
+4-5 person data get using forEach with push user
+1 person object data access with index
+3 person object data acess with objective way and multiple user value
+3 student data search & education result inof get using complete object & array & get student bangla subject gpa/grade
