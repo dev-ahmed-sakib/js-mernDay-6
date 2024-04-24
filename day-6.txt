@@ -28,6 +28,7 @@ and also search member by using their phone number with donation history
 
 
 //////// for revision ///////////
+reduce / object.key
 for 
 for in 
 for of
