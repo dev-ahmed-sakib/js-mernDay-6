@@ -5,15 +5,15 @@
 05/ for in loop & for of loop
 06/ filter, find, some, Every, at, fill
 07/ reduce 
-08/ basic spread array data & basic spread object data 
-09/ distructure && same key & multiple object value get
-10/ mutable & immutable data update 
-  / basic infor update 
+08/ basic spread array data & basic spread object data --- (x)
+09/ distructure && same key & multiple object value get --- (done) due "same key"
+10/ mutable & immutable data update
+  / basic info update 
   / multiple array of object data update 
   / find a data from lots of data storage
   / data update using spread
 
-------Practice work------
+------Practice work------    
 
 Create a complete Developer array and object data structure with monthly income. 
 And search devs by stack, location, income, age 
@@ -25,15 +25,21 @@ result with gpa, grade, cgpa and final result
 Create a Blood Donation Club members data structure using an array and object. 
 Now find members by blood group those who are ready to donate blood. 
 and also search member by using their phone number with donation history 
+-----------------------------------------
+facebook post data structure design
+instagram post data structure design
+woodmart product items structure
+daraz data design
 
 
 //////// for revision ///////////
-reduce / object.key
+object.key
 for 
 for in 
 for of
 forEach
 Map
+filter
 array.from
 do while 
 while
