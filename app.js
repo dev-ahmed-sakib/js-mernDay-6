@@ -1,3 +1,83 @@
+// Daraz Product items data design //
+const darazProduct = [{
+    product_content : {
+        // main title and reviews, answer
+        main_title : "Canvas Hot Tactical Casual Metal Buckle Belts Men'S Fashion Wild China Thicken Long Cloth Belts Male Knitted Waistband Ceintures Polyester - Belt - Belt For Men - Belt For Men - Belt",
+        reviews : {
+            review_progress : "https://laz-img-cdn.alicdn.com/tfs/TB14SXtAXOWBuNjy0FiXXXFxVXa-30-30.png",
+            review_rating : 16 + "Ratings"
+        },
+        // Brand / answer questions
+        answered_questions : 2 + "Answered Questions",
+        brand : " No Brand | More Men from No Brand",
+
+        pricing : {
+        // pricing section informations
+            main_price : "৳" + 259,
+            discount_price : "৳ 750-65%",
+            promotion : {
+                discountBar : "Min. Spend ৳ 200 Capped at ৳ 20",
+                discount_items : [{
+                    discount_price : "100% Off",
+                    discount_content : "Min. Spend ৳ 299 Capped at ৳ 70"
+                }]
+            }
+        },
+        Items_color : {
+            // available color items
+            black : "https://static-01.daraz.com.bd/p/b5e47646a8bfb3a7345fbd833ec3e159.jpg_80x80.jpg_.webp",
+            olive : "https://static-01.daraz.com.bd/p/318e7de9f3ac447f404ac79a409cc9f8.jpg_80x80.jpg_.webp",
+            silver : "https://static-01.daraz.com.bd/p/2a012bb4c6acab10a40534101904b8f0.jpg_80x80.jpg_.webp",
+            chocolate : "https://static-01.daraz.com.bd/p/c3317323e05b5d122ba28f9362d97a58.jpg_80x80.jpg_.webp"
+        }
+    },
+    product_img : {
+        // product images
+            main_img : "https://static-01.daraz.com.bd/p/e2c533d9aba0cbeb7faa195a82d8ce02.jpg_750x750.jpg_.webp",
+
+            color_selection_img : {
+            olive : "https://static-01.daraz.com.bd/p/318e7de9f3ac447f404ac79a409cc9f8.jpg_80x80.jpg_.webp",
+            silver : "https://static-01.daraz.com.bd/p/2a012bb4c6acab10a40534101904b8f0.jpg_80x80.jpg_.webp",
+            chocolate : "https://static-01.daraz.com.bd/p/c3317323e05b5d122ba28f9362d97a58.jpg_80x80.jpg_.webp",
+        }
+    },
+
+}]
+
+console.log(darazProduct[0].product_content.pricing.promotion.discount_items[0].discount_content)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // // instagram post design //
 // const insta_post = [{
 //      author : {

@@ -1,1 +1,1 @@
-log
+https://static-01.daraz.com.bd/p/e2c533d9aba0cbeb7faa195a82d8ce02.jpg_750x750.jpg_.webp
