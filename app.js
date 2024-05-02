@@ -1,3 +1,91 @@
+// // instagram post design //
+// const insta_post = [{
+//      author : {
+//         // Author personal information 
+//         name : "HM Nayem",
+//         bio : " Author, Entrepreneur & Full-stack Engineer",
+//         profile : "https://media.licdn.com/dms/image/C5603AQECb8HFBDNXRw/profile-displayphoto-shrink_800_800/0/1641607695503?e=1720051200&v=beta&t=V-vK_qd4g9ePCMUWXfPr0pAr2qraZLDk7CxlW_j8cJc"
+//      },
+//      p_content : {
+//         // Author uploaded content
+//         caption : "মোহাম্মদপুর বাস স্ট্যান্ডের পাশে একটা দোকানে কম্পিউটার অপারেটরের কাজ করে উপার্জন করেছিলাম। এই ধরেন কম্পোজ করা, ছবি এডিট করা, বিভিন্ন অ্যাপ্লিকেশন ফর্ম ফিলাপ করা এই ধরনের কাজ করতাম। আর বাকি সময় দোকানে বসেই প্রোগ্রামিং করতাম। তখন জানতামও না প্রোগ্রামিং আমাকে কি দিবে। ভালো লাগতো, তাই প্রোগ্রামিং নিয়ে পরে থাকতাম। আর প্রোগ্রামিং অনেক আগেই আমাকে আট ডিজিটের ঘরে পৌঁছে দিয়েছে 😀",
+//         post_Upload : "https://media.licdn.com/dms/image/D5622AQFYvQV6_Rfp_g/feedshare-shrink_800/0/1713798283299?e=1717632000&v=beta&t=RXV2Sg7HfFfNmDl6pmKZwDIP1oJ-2FYztQDSJ6ImsO8" 
+//      },
+//      reaction : {
+//         // Author post reaction
+//         likes : 720,
+//         celebrate : 105,
+//         support : 54,
+//         love : 158,
+//         insignthful : 85,
+//         funny : 2
+//      },
+//      comments : [
+//         {
+//         // Author comments sections
+//             id : 1,
+//             name : "Md Rakibul Islam Rakib",
+//             profile : "https://media.licdn.com/dms/image/D4D03AQGUmM5ndC7nCw/profile-displayphoto-shrink_100_100/0/1695041920558?e=1720051200&v=beta&t=9yNt3VKxXgxEgeiesjm3G5HW-B2fluzQO4Cis_s2Pe0",
+//             bio : "Full Stack Web Developer",
+//             comments_time_count : "3rd+",
+
+//             comments_content : `
+//             Those of us who work hard and come from middle-class or lower-middle-class families understand the challenges life can bring. At first, even small amounts of income can seem significant. Yet, with time, those small amounts add up, gradually leading us towards greater financial stability.
+
+//             Many blessings and best wishes to you, brother. 🤲`,
+//         },
+//         {
+//             id : 2,
+//             name : "Mostafizur Rahman",
+//             profile : "https://media.licdn.com/dms/image/D4D03AQGUmM5ndC7nCw/profile-displayphoto-shrink_100_100/0/1695041920558?e=1720051200&v=beta&t=9yNt3VKxXgxEgeiesjm3G5HW-B2fluzQO4Cis_s2Pe0https://media.licdn.com/dms/image/D5603AQFywRhVkfu-cA/profile-displayphoto-shrink_100_100/0/1702878827237?e=1720051200&v=beta&t=p4umcbHZhkeaLdind79-x1vxPXXnKchaGXGAj8C7vI8",
+//             bio : "MERN Stack Developer || Full Stack Web Developer || Software Developer",
+//             comments_time_count : "3rd+",
+
+//             comments_content : `Thank you for sharing your inspiration. It's a great journey for you.`,
+//         },
+//         {
+//             id : 3,
+//             name : "BM Khalid Hasan",
+//             profile : "https://media.licdn.com/dms/image/D5603AQHOwIiZcmDreg/profile-displayphoto-shrink_100_100/0/1702485562190?e=1720051200&v=beta&t=dIcVyyPxbOWUK-vHNqRBBx2wYUWz78CRE87H1T-0QM4",
+//             bio : "Content Writer | Copywriter | Content Creator | Content Executive | Screen Writer | Director | Presenter",
+//             comments_time_count : "3rd+",
+
+//             comments_content : `You are living inspiration. Keep up the good work.`,
+//         }
+//     ]
+// }]
+
+// // post comment content data showing
+// let getOutput = insta_post.map(items => items.comments[2].comments_content)
+
+// // Output
+// console.table(insta_post)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
